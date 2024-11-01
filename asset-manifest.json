@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xpla-wallet-sign-test/static/css/main.0b556121.chunk.css",
-    "main.js": "/xpla-wallet-sign-test/static/js/main.5441484b.chunk.js",
-    "main.js.map": "/xpla-wallet-sign-test/static/js/main.5441484b.chunk.js.map",
+    "main.js": "/xpla-wallet-sign-test/static/js/main.9d36711f.chunk.js",
+    "main.js.map": "/xpla-wallet-sign-test/static/js/main.9d36711f.chunk.js.map",
     "runtime-main.js": "/xpla-wallet-sign-test/static/js/runtime-main.05fe32be.js",
     "runtime-main.js.map": "/xpla-wallet-sign-test/static/js/runtime-main.05fe32be.js.map",
     "static/js/2.5f00e8a3.chunk.js": "/xpla-wallet-sign-test/static/js/2.5f00e8a3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.05fe32be.js",
     "static/js/2.5f00e8a3.chunk.js",
     "static/css/main.0b556121.chunk.css",
-    "static/js/main.5441484b.chunk.js"
+    "static/js/main.9d36711f.chunk.js"
   ]
 }
